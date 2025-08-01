@@ -2,7 +2,7 @@
 scMODCI: A Domain-Adaptive Contrastive Learning and Neighborhood Topology Consistency Constrained Framework for Cross-Modality Single-Cell Multi-omics Integration
 
 # scMODCI
-<img src="Model image/Model of scMODCI.png" width="900" height="550" />
+<img src="Model image/scMODCI.png" width="900" height="550" />
 The source code and input data of scMODCI
 
 ## Requirement
