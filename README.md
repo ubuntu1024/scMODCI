@@ -16,6 +16,15 @@ The source code and input data of scMODCI
 - Networkx ---3.4.2
 - Matplotlib ---3.10.0
 
+## Data availability
+|  Dataset              | Protocol   | Source |
+| --------------------------- | ----------------------- | ----------------------- |
+| ***PBMC-10K***             | ***10x Multiome***      | ***https://support.10xgenomics.com/single-cell-multiome-atac-gex/datasets/1.0.0/pbmc_granulocyte_sorted_10k*** |
+| ***Ma-2020***             | ***SHARE-seq*** | ***https://scglue.readthedocs.io/en/latest/data.html***        |
+| ***Chen-2019***          | ***SHARE-seq***      | ***https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126074***     |
+| ***Muto-2021***          | ***CITE-seq***      | ***https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151302***     |
+| ***Yao-2021***          | ***CITE-seq***      | ***https://assets.nemoarchive.org/dat-ch1nqb7***     |
+
 ## Usage
 #### Clone this repo.
 ```
