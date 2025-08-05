@@ -25,6 +25,12 @@ The source code and input data of scMODCI
 | ***Muto-2021***          | ***CITE-seq***      | ***https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151302***     |
 | ***Yao-2021***          | ***CITE-seq***      | ***https://assets.nemoarchive.org/dat-ch1nqb7***     |
 
+
+#### Code structure
+- ```process_data.py```: The data preprocessing code
+- ```integration.py```: scMODCI cross-modal integration, which will call the scMODCI main function.
+- ```test.py```: Evaluation index for testing.
+
 ## Usage
 #### Clone this repo.
 ```
