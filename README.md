@@ -6,14 +6,15 @@ scMODCI: A Domain-Adaptive Contrastive Learning and Neighborhood Topology Consis
 The source code and input data of scMODCI
 
 ## Requirement
-- Pytorch --- 2.0.1
-- Python --- 3.11.4
-- Numpy --- 1.24.4
-- Scipy --- 1.13.0
-- Sklearn --- 1.3.21
-- Munkres --- 1.1.4
-- tqdm ---4.66.1
-- Matplotlib ---3.7.2
+- Pytorch --- 2.6.0
+- Python --- 3.11.11
+- Numpy --- 1.26.4
+- Anndata --- 0.10.8
+- Pandas --- 1.5.3
+- Scanpy --- 1.11.1
+- Scglue --- 0.3.2
+- Networkx ---3.4.2
+- Matplotlib ---3.10.0
 
 ## Usage
 #### Clone this repo.
